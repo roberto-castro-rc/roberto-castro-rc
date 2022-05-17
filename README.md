@@ -3,7 +3,7 @@
 Perfil em construção 😁
 
 - 🔭 Estou buscando oportunidades nas áreas de analise de dados e engenharia de dados.
-- 🌱 Atualmente Estudando AWS e PySpark.
+- 🌱 Atualmente Estudando AWS.
 - 👯 Aceito trabalhar com ONGs e projetos voluntários na area de dados.
 - 📫 Você pode entrar em contato comigo através do __robertcastro2552@gmail.com__ ou https://www.linkedin.com/in/roberto-castro-rc/
 - ⚡ Corredor amador e apaixonado pelo cinema nacional.
