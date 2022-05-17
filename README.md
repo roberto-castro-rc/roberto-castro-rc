@@ -1,5 +1,12 @@
-### Hi there 👋
+### Bem vindo ao meu mundo! 😊  
 
+Perfil em construção 😁
+
+- 🔭 Estou buscando oportunidades nas áreas de analise de dados e engenharia de dados.
+- 🌱 Atualmente Estudando AWS e PySpark.
+- 👯 Aceito trabalhar com ONGs e projetos voluntários na area de dados.
+- 📫 Você pode entrar em contato comigo através do __robertcastro2552@gmail.com__ ou https://www.linkedin.com/in/roberto-castro-rc/
+- ⚡ Corredor amador e apaixonado pelo cinema nacional.
 <!--
 **roberto-castro-rc/roberto-castro-rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
