@@ -1,4 +1,4 @@
-### Bem vindo ao meu mundo! 😊  
+### Bem vindo ao meu mundo!👋
 
 Perfil em construção 😁
 
